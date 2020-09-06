@@ -12,4 +12,4 @@ Other than a ESP-01 or a development board of your choosing, a SSD-1306-controll
 
  * [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
  * [pubsubclient](https://github.com/knolleary/pubsubclient)
- * [esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306) - an open source GPS communicator mesh radio
+ * [esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
