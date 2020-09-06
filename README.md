@@ -13,3 +13,18 @@ Other than a ESP-01 or a development board of your choosing, a SSD-1306-controll
  * [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
  * [pubsubclient](https://github.com/knolleary/pubsubclient)
  * [esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
+
+
+## Showcase
+
+Changing the "position" value in source allows for moving the value column
+
+
+![PIC1](https://github.com/Sapharanth/ESP-OLED-infopanel/blob/master/Images/SSD1306-preview%20(5).jpg)
+![PIC2](https://github.com/Sapharanth/ESP-OLED-infopanel/blob/master/Images/SSD1306-preview%20(4).jpg)
+![PIC3](https://github.com/Sapharanth/ESP-OLED-infopanel/blob/master/Images/SSD1306-preview%20(3).jpg)
+
+And this is how my use-case looks like. CAQI is doubled until I set up another temperature sensor.
+
+
+![PIC4](https://github.com/Sapharanth/ESP-OLED-infopanel/blob/master/Images/SSD1306-preview%20(1).jpg)
