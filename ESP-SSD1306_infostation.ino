@@ -71,7 +71,7 @@ void displaySplash()
 
 void JSONPrint(String json)
 {
-  const size_t capacity = 7*JSON_ARRAY_SIZE(2) + JSON_ARRAY_SIZE(8) + 160;
+  const size_t capacity = 7*JSON_ARRAY_SIZE(2) + JSON_ARRAY_SIZE(8) + 160; // if you're having problems, use https://arduinojson.org/v6/assistant/ to check what capacity to pick
   DynamicJsonDocument doc(capacity);
   DeserializationError error = deserializeJson(doc, json);
 
